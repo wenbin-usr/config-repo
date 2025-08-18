@@ -1,5 +1,5 @@
 server:
-  port: 7779 # 端口
+  port: 9090 # 端口
 
 spring:
   application:
@@ -7,3 +7,4 @@ spring:
 
 # 自定义配置
 name: order-service-test
+
