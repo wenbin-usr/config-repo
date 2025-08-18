@@ -6,5 +6,6 @@ spring:
     name: order-service # 应用名称
 
 # 自定义配置
-name: order-service-default
+name: order-service-default-123
+
 
